@@ -1,0 +1,16 @@
+.outerbox{
+    height: 300px;
+    width: 500px;
+    border:solid 2px black;
+    margin: auto;
+    text-align: center;
+    box-shadow: 3px black;
+}
+.btn{
+    background-color: grey;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    text-decoration: solid;
+    text-size-adjust: 5px;
+}
